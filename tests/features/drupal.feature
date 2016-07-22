@@ -16,3 +16,5 @@ Feature: My Site Works
     Then I should see "Article My Article has been created."
     When I visit "admin/content"
     Then I should see "My Article"
+
+    Then I should see "Congrats!"
