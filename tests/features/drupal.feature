@@ -19,3 +19,4 @@ Feature: My Site Works
 
     Then I should see "Congrats!"
     And another bad test
+    And ANOTHER bad test
