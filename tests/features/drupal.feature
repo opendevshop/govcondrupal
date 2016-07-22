@@ -18,3 +18,4 @@ Feature: My Site Works
     Then I should see "My Article"
 
     Then I should see "Congrats!"
+    And another bad test
