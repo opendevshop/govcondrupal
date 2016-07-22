@@ -17,5 +17,3 @@ Feature: My Site Works
     When I visit "admin/content"
     Then I should see "My Article"
 
-    Then I should see "Congrats!"
-    And another bad test
